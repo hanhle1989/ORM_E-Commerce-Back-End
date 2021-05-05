@@ -21,7 +21,10 @@
   },
   "dependencies": {
     "dotenv": "^8.2.0",
+    "echo": "^0.1.9",
     "express": "^4.17.1",
+    "jest": "^26.6.3",
+    "mocha": "^8.3.2",
     "mysql2": "^2.1.0",
     "sequelize": "^5.22.4"
   }
